@@ -1,6 +1,6 @@
-Site modelo criado para praticar fundamentos de tecnologias Front-end
+# Site modelo criado para praticar fundamentos de tecnologias Front-end
 
-Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * HTML5
 * CSS3
